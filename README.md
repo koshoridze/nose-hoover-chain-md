@@ -50,3 +50,12 @@ After building, run:
 * This is a minimal implementation and not intended for production simulations
 * Numerical stability and parameter tuning are left to the user
 * Results should be validated before scientific use
+
+## References
+
+The integration scheme is based on:
+
+1. Martyna, G. J., Tuckerman, M. E., Tobias, D. J., & Klein, M. L.  
+   *Explicit reversible integrators for extended systems dynamics.*  
+   Molecular Physics, 87(5), 1117–1157 (1996).  
+   https://doi.org/10.1080/00268979600100761
