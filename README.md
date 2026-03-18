@@ -48,8 +48,7 @@ After building, run:
 ## Notes
 
 * This is a minimal implementation and not intended for production simulations
-* Numerical stability and parameter tuning are left to the user
-* Results should be validated before scientific use
+* Parameter tuning are left to the user
 
 ## References
 
